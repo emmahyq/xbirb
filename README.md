@@ -1,7 +1,7 @@
 # xbirb
 your motivational birb to help you get stuff done 🐤✨
 
-> check out the project demo [here](https://ehuang.dev/xbirb/),
+> check out the project demo [here](https://emmahyq.github.io/xbirb),
 > or view it on [devpost](https://devpost.com/software/xbirb)
 
 why it's amazing:
